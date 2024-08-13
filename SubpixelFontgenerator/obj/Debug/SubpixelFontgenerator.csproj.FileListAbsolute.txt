@@ -1,0 +1,7 @@
+C:\Users\ZessinR\source\repos\SubpixelFontgenerator\SubpixelFontgenerator\bin\Debug\SubpixelFontgenerator.exe.config
+C:\Users\ZessinR\source\repos\SubpixelFontgenerator\SubpixelFontgenerator\bin\Debug\SubpixelFontgenerator.exe
+C:\Users\ZessinR\source\repos\SubpixelFontgenerator\SubpixelFontgenerator\bin\Debug\SubpixelFontgenerator.pdb
+C:\Users\ZessinR\source\repos\SubpixelFontgenerator\SubpixelFontgenerator\obj\Debug\SubpixelFontgenerator.csproj.AssemblyReference.cache
+C:\Users\ZessinR\source\repos\SubpixelFontgenerator\SubpixelFontgenerator\obj\Debug\SubpixelFontgenerator.csproj.CoreCompileInputs.cache
+C:\Users\ZessinR\source\repos\SubpixelFontgenerator\SubpixelFontgenerator\obj\Debug\SubpixelFontgenerator.exe
+C:\Users\ZessinR\source\repos\SubpixelFontgenerator\SubpixelFontgenerator\obj\Debug\SubpixelFontgenerator.pdb
